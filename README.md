@@ -1,10 +1,10 @@
-PROJECT VISION
+PROJECT VISION:
 To build a prosperous Africa, driven by equal and quality education.
 
-PROJECT MISSION
+PROJECT MISSION:
 To prepare and motivate African students for a rapidly changing world by instilling in them technological skills at early stage, while bridging the education gap through the provision of quality and affordable education for all.
 
-:busts_in_silhouette: PROJECT SCOPE
+:busts_in_silhouette: PROJECT SCOPE:
 This software would take x amount of student (where x is determined by the administrator)
 
 The software will target all kids and teen within the primary and secondary educational sector
